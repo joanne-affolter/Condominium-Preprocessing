@@ -4,6 +4,7 @@
 
 ## Project Description
 This project presents a comprehensive Python-based solution for preprocessing and managing data related to condominiums across France. Originating from official government data, it has been significantly enriched through meticulous web scraping of Pages Jaunes. The resulting dataset offers an extensive overview of property management companies (syndics), condominiums, and their operational hours, organized within a structured SQL database. This preparatory work lays the foundation for the development of a specialized application aimed at enabling commercial teams to effectively optimize their engagement strategies with property management entities.
+
 -----------------------
 ## Key Features:
 
